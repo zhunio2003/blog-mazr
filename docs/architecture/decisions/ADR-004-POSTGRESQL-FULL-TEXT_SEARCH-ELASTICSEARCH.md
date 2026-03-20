@@ -14,6 +14,7 @@ Necesitamos búsqueda full-text bilingüe (español + inglés) con autocompletad
 ## Decisión
 
 Usar PostgreSQL native full-text search con tsvector, pg_trgm, y unaccent.
+
 ---
 
 ## Razón:
